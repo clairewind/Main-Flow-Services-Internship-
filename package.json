@@ -1,0 +1,16 @@
+{
+  "name": "my-form",
+  "version": "1.0.0",
+  "description": "My Form Data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Claire Rebecca J",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  }
+}
