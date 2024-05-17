@@ -1,0 +1,290 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif;
+    text-align:justify ;
+    background-image: url(c9.png);
+
+}
+header
+{
+    background-color: rgb(129, 23, 165);
+    color: #ffffff;
+    text-align: center;
+   
+}
+.d1{
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
+}
+
+.d2,.d3,.d4,.d5,.d6,.d7a,.d7b,.d7c{
+    background-color: rgb(129, 23, 165);
+    color: #ffffff;
+}
+.d2
+{
+    margin: 30px;
+    text-align: justify;
+    display: flex;
+
+}
+.d21
+{
+    margin: 40px;
+    text-align: justify;
+    margin: 10px;
+}
+
+.d3{
+    display: flex;
+    margin: 30px;
+}
+
+.d33
+{   
+    margin: 50px;
+    margin-left: 90px;
+    padding: 0;
+}
+.h1
+{
+    font-size: xx-large;
+}
+.im1
+{
+    margin: 60px;
+    width: 500px;
+    height: 400px;
+    margin-left: 80px;
+    
+}
+
+.im2
+{
+    margin: 30px;
+    width: 250px;
+    height: 400px;
+}
+
+.d4
+{
+    display: flex;
+    margin: 40px;
+    margin-left: 50px;
+
+}
+
+.d411
+{
+    margin:40px;
+    margin-left: 50px;
+
+}
+
+.d42
+{
+    margin: 0px;
+    margin-left: 90px;
+}
+
+.d43
+{
+    margin: 0px;
+    margin-left: 110px;
+}
+
+
+.d5
+{
+    
+    margin: 50px;
+
+}
+
+.d51
+{
+    margin: 50px;
+    text-indent: 5px;
+}
+
+.d6
+{
+    margin: 30;
+    display: flex;
+    
+}
+
+.d61
+{
+    margin:50px;
+    margin-left: 80px;
+}
+.d62
+{
+    margin: 40px;
+    margin-left: 80px;
+}
+.d63
+{
+    margin: 40px;
+    margin-left: 80px;
+  
+}
+
+.d7
+{
+    margin: 30px;
+}
+
+.d7a
+{
+    margin: 10px;
+    display: flex;
+}
+.d71
+{
+    margin: 20px;
+}
+.d72
+{
+    margin: 20px;
+}
+
+.i71
+{
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    background-attachment: fixed;
+}
+.i72
+{
+    width: 500px;
+    height: 310px;
+    margin: 23px;
+    background-attachment: fixed;
+}
+
+.d7b
+{
+    margin: 10px;
+    display: flex;
+}
+
+.d73
+{
+    margin: 20px;
+}
+
+.d74
+{
+    margin: 20px;
+}
+
+.i73{
+
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    background-attachment: fixed;
+}
+
+.i74
+{
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    background-attachment: fixed;
+}
+
+.d7c
+{
+    margin: 10px;
+    display: flex;
+}
+
+.d75
+{
+    margin: 20px;
+}
+
+.d76
+{
+    margin: 20px;
+}
+.i75{
+
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    background-attachment: fixed;
+}
+
+.i76
+{
+    width: 500px;
+    height: 300px;
+    margin: 30px;
+    background-attachment: fixed;
+}
+.d9
+{
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  
+}
+#f1,#f2 ,#f3
+{
+   font-size: xx-large;
+  color: #000;
+  
+}
+.fontspace
+{
+ margin: 20px;
+}
+
+#f1:hover
+{
+ color: red;
+}
+
+
+#f2:hover
+{
+ color: rgba(2, 203, 253, 0.88);
+}
+
+
+
+#f3:hover
+{
+ color: rgb(28, 25, 210);
+}
+
+footer{
+    background-color:rgb(122, 29, 180);
+    color: #ffffff;
+}
+.logout-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff4b5c;
+    margin-right: 10px;
+    float: right;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: #ff2a3a;
+}
